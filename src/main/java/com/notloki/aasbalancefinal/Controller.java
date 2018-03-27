@@ -107,6 +107,7 @@ public class Controller {
         System.out.println("Printing Label");
         printLayout();
         timeToPrint();
+        printButton.setDisable(true);
 
     }
 

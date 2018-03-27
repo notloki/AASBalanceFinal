@@ -20,7 +20,7 @@ public class Main extends Application {
             primaryStage.setTitle(Ref.COMPANY_NAME + "     " +
                     Ref.VERSION + " " + Ref.VERSION_DATE);
             primaryStage.getIcons().add(new Image("/AASLogo.jpg"));
-            primaryStage.setScene(new Scene(root, 800, 920));
+            primaryStage.setScene(new Scene(root, 850, 920));
             primaryStage.show();
 
     }

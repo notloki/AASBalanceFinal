@@ -4,7 +4,7 @@ apply plugin: 'java'
 
 apply plugin: 'idea'
 
-version = '0.2.0b'
+version = '0.2.1b'
 
 group = 'com.notloki.aasbalancefinal'
 

@@ -3,8 +3,12 @@ public class Ref {
 
     // For Title
     public static final String COMPANY_NAME = "All American Steel";
-    public static final String VERSION = "0.2.0b";
-    public static final String VERSION_DATE = "03/26/2018";
+    public static final String VERSION = "0.2.1b";
+    public static final String VERSION_DATE = "04/02/2018";
+
+    // Screen Starting Size
+    public static final int WIDTH = 850;
+    public static final int HEIGHT = 920;
 
 
     // Weight of steel per unit  Default is 2 pounds per linear foot.
